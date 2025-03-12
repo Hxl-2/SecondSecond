@@ -51,7 +51,7 @@
 </head>
 <body>
 <div class="register-container">
-    <h2>注册</h2>
+    <h2>注册fvg</h2>
     <%--form表单提交都是post, 超链接提交都是get--%>
     <form id="registerForm" action="<%= request.getContextPath()%>/register" method="post">
         <div class="input-group">
